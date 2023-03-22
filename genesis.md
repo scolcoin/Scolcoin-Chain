@@ -1,5 +1,7 @@
 ## Genesis:
+
 the archive: scol_mainnet.json Link: https://github.com/scolcoin/ScolNetwork/blob/master/scol_mainnet.json
+
 
 '{
   "config": {
@@ -36,14 +38,25 @@ the archive: scol_mainnet.json Link: https://github.com/scolcoin/ScolNetwork/blo
   "baseFeePerGas": null
 }'
 
+
 Genesis in the Explorer: https://explorer.scolcoin.com/block/0/transactions
+
 ´Block Height 0 - Genesis Block
+
  Timestamp  March-12-2023 09:34:16 PM +-5 UTC
+ 
  Transactions  Validated by 0x0000000000000000000000000000000000000000
+ 
  Size 646 bytes
+ 
  Hash 0xabeffb5fe678a80af7cfe2f494de8fd3fb7c9c5b039a46dde0edcb646629a55f
+ 
  Difficulty 1
+ 
  Total Difficulty 1
+ 
  Gas Used 0 | 0%
+ 
  Gas Limit 4,700,000
+ 
  Nonce 0x0000000000000000´
