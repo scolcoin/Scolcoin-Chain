@@ -31,10 +31,8 @@ the archive: scol_mainnet.json Link: https://github.com/scolcoin/ScolNetwork/blo
     
       "period": 3,
       
-      "epoch": 30000
-      
-    }
-    
+      "epoch": 30000  
+    }   
   },
   
   "nonce": "0x0",
@@ -65,7 +63,7 @@ the archive: scol_mainnet.json Link: https://github.com/scolcoin/ScolNetwork/blo
   
   "baseFeePerGas": null
   
-}`
+} `
 
 
 Genesis in the Explorer: https://explorer.scolcoin.com/block/0/transactions
