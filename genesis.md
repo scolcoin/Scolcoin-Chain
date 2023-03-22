@@ -3,7 +3,8 @@
 the archive: scol_mainnet.json Link: https://github.com/scolcoin/ScolNetwork/blob/master/scol_mainnet.json
 
 
-`{
+```
+{
 
   "config": {
   
@@ -63,12 +64,14 @@ the archive: scol_mainnet.json Link: https://github.com/scolcoin/ScolNetwork/blo
   
   "baseFeePerGas": null
   
-} `
+} 
+```
 
 
 Genesis in the Explorer: https://explorer.scolcoin.com/block/0/transactions
 
-`Block Height 0 - Genesis Block
+```
+Block Height 0 - Genesis Block
 
  Timestamp  March-12-2023 09:34:16 PM +-5 UTC
  
@@ -86,4 +89,5 @@ Genesis in the Explorer: https://explorer.scolcoin.com/block/0/transactions
  
  Gas Limit 4,700,000
  
- Nonce 0x0000000000000000`
+ Nonce 0x0000000000000000
+ ```
