@@ -5,15 +5,9 @@
 - ChainID: 65450
 - Explorador: https://explorer.scolcoin.com
 - Nodos Validadores: https://status.scolcoin.com
-- Documentos: https://docs.scolcoin.com
 - RCP: https://mainnet-rpc.scolcoin.com
 - MetaMask para Monedero: 
 
-# Testnet:
-- ChainID: 6552
-- https://testnet-rpc.scolcoin.com
-- https://testnet-explorer.scolcoin.com
-- https://faucet.scolcoin.com
 
 Caracteristicas:
 - Totalmente compatible con todos los contratos y dapps de Ethereum.
